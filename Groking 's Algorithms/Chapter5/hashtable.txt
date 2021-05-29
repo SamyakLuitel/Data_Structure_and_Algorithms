@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=shs0KM3wKv8
+https://en.wikipedia.org/wiki/Hash_table
+https://stackoverflow.com/questions/730620/how-does-a-hash-table-work
